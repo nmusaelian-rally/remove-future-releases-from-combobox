@@ -11,7 +11,9 @@ the default behavior of the combobox is to inlcude the future release:
 
 ![](pic1.png)
 
-Here is a screenshot of the same release combobox after the code was modified to filter by Releases where the ReleaseStartDate is less than or equal to today:
+Here is a screenshot of the same release combobox after the code was modified to filter by Releases where the ReleaseStartDate is less than or equal to today.
+
+release5 is no longer listed:
 
 ![](pic2.png)
 
